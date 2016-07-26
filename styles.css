@@ -1,0 +1,20 @@
+.correct {
+  color: #0F0;
+}
+
+.wrong {
+  color: #F00;
+}
+
+.bodyStyle {
+  margin: 0 auto;
+  width: 50%;
+}
+
+.bodyStyle input {
+  margin: 50px 0;
+}
+
+.bodyStyle div {
+  font-size: 24px;
+}
